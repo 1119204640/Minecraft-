@@ -1,3 +1,8 @@
+文章已上传到GitHub、CSDN、知乎、简书  
+GitHub：https://github.com/1119204640/Minecraft-/blob/main/README.md  
+CSDN：https://blog.csdn.net/weixin_46360567/article/details/122569492  
+知乎：https://zhuanlan.zhihu.com/p/459142192?  
+简书：https://www.jianshu.com/p/4a2094c3368e  
 # Minecraft 服务器搭建过程
 <!-- @[TOC](文章目录) -->
 - [Minecraft 服务器搭建过程](#minecraft-服务器搭建过程)
